@@ -1,8 +1,8 @@
 ## Bonnie's Testie McTestface Repo-Page
 
 ### Hello Web Architects, here is what would be good for you to do for today:
--get a page up!  (Bonus points if your title brings joy.)
--be able to give a shortlist or final choice of:
+- get a page up!  (Bonus points if your title brings joy.)
+- be able to give a shortlist or final choice of:
 1. Data / Api you'll use 
 2. Libraries you plan to use
 
