@@ -1,5 +1,17 @@
-## Bonnie's Testie McTestface Repo
+## Bonnie's Testie McTestface Repo-Page
 
+### Hello Web Architects, here is what would be good for you to do for today:
+-get a page up!  (Bonus points if your title brings joy.)
+-be able to give a shortlist or final choice of:
+1. Data / Api you'll use 
+2. Which libraries you plan to use
+
+
+
+
+
+
+# Guide:
 You can use the [editor on GitHub](https://github.com/casa-ucl/casa0017---final-group-assignment-testie-mctestface/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
